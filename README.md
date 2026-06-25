@@ -1,2 +1,2 @@
 # Mi-primer-proyecto
-Usare termux
+Vamos
